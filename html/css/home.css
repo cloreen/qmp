@@ -1,0 +1,29 @@
+div#wrapper {
+	background-color: #B2C0B2;
+}
+article {
+	margin: 3%;
+}
+/* article ul {
+	margin: 0 auto 0 0;
+	padding: 11% 0;
+} */
+article#featured ul li {
+	display: inline;
+}
+/* div#first_feat{
+	max-width: 15%;
+}
+article#featured ul li img {
+	float: left;
+} */
+section.content {
+	width: 100%;
+/* 	position: absolute;
+	left: 0; */
+	z-index: 1;
+	margin: 0 auto 0 0;
+	padding: 11% 0;
+	/* background-color: #91F0F0; */
+}
+

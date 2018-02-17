@@ -1,0 +1,22 @@
+div#page {
+	background-color: #998C7D;
+}
+/*header {
+	background-color: #918478;
+	width: 100%;
+	min-height: 150px;
+	text-align: center;
+	margin: 0 auto 0 auto;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: .8em;
+}
+nav {
+	margin: 0 auto 0 auto;
+}
+nav ul li {
+	display: inline;
+}*/
+article {
+	margin-top: 160px;
+	/*background-color: #91F0F0;*/
+}
