@@ -1,3 +1,10 @@
 div#page {
 	background-color: #DCE014;
 }
+div#wrapper {
+	padding: 0 8.33% 0 8.33%;
+}
+div.content {
+	padding-right: 8%;
+	padding-left: 8%;
+}
